@@ -1,6 +1,6 @@
-package com.demidrolll.rpws.temp.controller;
+package com.demidrolll.rpws.spring.controller;
 
-import com.demidrolll.rpws.temp.domain.Temperature;
+import com.demidrolll.rpws.spring.domain.Temperature;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;

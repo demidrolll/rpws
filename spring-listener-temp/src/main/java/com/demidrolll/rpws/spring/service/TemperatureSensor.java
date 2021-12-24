@@ -1,6 +1,6 @@
-package com.demidrolll.rpws.temp.service;
+package com.demidrolll.rpws.spring.service;
 
-import com.demidrolll.rpws.temp.domain.Temperature;
+import com.demidrolll.rpws.spring.domain.Temperature;
 import java.util.Random;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

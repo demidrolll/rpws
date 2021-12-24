@@ -1,4 +1,4 @@
-package com.demidrolll.rpws.temp;
+package com.demidrolll.rpws.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

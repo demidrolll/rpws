@@ -1,4 +1,4 @@
-package com.demidrolll.rpws.temp;
+package com.demidrolll.rpws.spring;
 
 import java.util.concurrent.Executor;
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;
